@@ -12,4 +12,14 @@ class Homy1ApplicationTests {
         assertEquals(1,1);
     }
 
+    @Test
+    void contextLoads2() {
+        assertEquals(2,2);
+    }
+
+    @Test
+    void contextLoads3() {
+        assertEquals(1,2);
+    }
+
 }
