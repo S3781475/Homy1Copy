@@ -7,19 +7,4 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @SpringBootTest
 class Homy1ApplicationTests {
 
-    @Test
-    void contextLoads() {
-        assertEquals(1,1);
-    }
-
-    @Test
-    void contextLoads2() {
-        assertEquals(2,2);
-    }
-
-    @Test
-    void contextLoads3() {
-        assertEquals(1,2);
-    }
-
 }
